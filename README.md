@@ -8,7 +8,7 @@ Simple arcade game to help the princess to reach the sea.
 
 
 # Installing
-Just opent the game in your browser and start your fun game.
+Just open the game in your browser and start your fun game.
 
 
 # How to win this game
